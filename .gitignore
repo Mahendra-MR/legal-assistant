@@ -1,0 +1,11 @@
+# .gitignore
+__pycache__/
+*.pyc
+.env
+.vscode/
+*.db
+vectorstore/
+node_modules/
+dist/
+build/
+.next/
